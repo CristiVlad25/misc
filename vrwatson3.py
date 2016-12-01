@@ -1,4 +1,4 @@
-# Visual Recognition with IBM Watson
+# Visual Recognition with IBM Watson - Facial Recognition
 # Requirements 1: IBM Bluemix Account (free) - https://console.ng.bluemix.net/
 # Requirements 2: watson_developer_cloud module python module
 # Once registered, login to your account, go to Services -> Watson and create a Visual Recognition instance
