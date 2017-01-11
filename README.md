@@ -8,4 +8,8 @@
 
 ### Building Applications with Tkinter
 
-- tkapp#.py
+- tkapp#.py (youtube series: [here](https://www.youtube.com/playlist?list=PLonlF40eS6nyjI_OlR21se8aE1LTtNH1g))
+
+### Voice Synthesis with Ivona
+
+- ivona#.py (youtube series: [here](https://www.youtube.com/playlist?list=PLonlF40eS6nzrbN2lQ63o2bxrHGJcRNxT))
