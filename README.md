@@ -13,3 +13,7 @@
 ### Voice Synthesis with Ivona
 
 - ivona#.py (youtube series: [here](https://www.youtube.com/playlist?list=PLonlF40eS6nzrbN2lQ63o2bxrHGJcRNxT))
+
+### Voice Search with Tkinter
+
+- see voice search folder (youtube series: [here](https://www.youtube.com/playlist?list=PLonlF40eS6nzkmtPBZJV0J9GIyRapXWIK))
