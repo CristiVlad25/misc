@@ -4,7 +4,7 @@ import webbrowser
 
 root = Tk()
 root.title('Universal Search Bar')
-root.iconbitmap('c:\\users\\cristi\\desktop\\mic.ico')
+root.iconbitmap('mic.ico')
 
 style = ttk.Style()
 style.theme_use('winnative')
