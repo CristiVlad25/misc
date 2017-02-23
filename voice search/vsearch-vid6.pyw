@@ -3,6 +3,9 @@
 from tkinter import *
 from tkinter import ttk
 import webbrowser
+import speech_recognition as sr
+from pygame import mixer
+from keys import *
 
 root = Tk()
 root.title('Universal Search Bar')
@@ -56,7 +59,14 @@ def get(event):
         pass
 
 def buttonClick():
-    pass
+
+    mixer.init()
+    mixer.music.load('chime3.mp3')
+    mixer.music.play()
+
+    r = sr.Recognizer()
+    r.pause_threshold = 0.7
+    r.energy_threshold = 400
 
 entry1.bind('<Return>', get)
 
@@ -81,4 +91,3 @@ MyButton6.grid(row=0, column=5)
 entry1.focus()
 root.wm_attributes('-topmost', 1)
 root.mainloop()
-
