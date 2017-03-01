@@ -68,8 +68,7 @@ def buttonClick():
     r.pause_threshold = 0.7
     r.energy_threshold = 400
 
-    with sr.Microphone()
-    as source:
+    with sr.Microphone() as source:
 
         try:
 
