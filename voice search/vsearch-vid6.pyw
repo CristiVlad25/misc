@@ -61,7 +61,7 @@ def get(event):
 def buttonClick():
 
     mixer.init()
-    mixer.music.load('chime3.mp3')
+    mixer.music.load('chime1.mp3')
     mixer.music.play()
 
     r = sr.Recognizer()
