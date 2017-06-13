@@ -17,3 +17,7 @@
 ### Voice Search with Tkinter
 
 - see voice search folder (youtube series: [here](https://www.youtube.com/playlist?list=PLonlF40eS6nzkmtPBZJV0J9GIyRapXWIK))
+
+### Voice Synthesis with Amazon Polly
+
+- polly_speech#.py (youtube: [here](https://www.youtube.com/watch?v=nxzAb9r-u5A))
