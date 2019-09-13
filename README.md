@@ -1,5 +1,9 @@
 ## Python Scripts - Mix
 
+### Automating subdomain checking (for bug hunting)
+
+- upcheck.py (youtube: [here](https://youtu.be/ctaCEs66H1Y))
+
 ### Visual Recognition With Watson and Python
 
 1. vrwatson1 - Visual Recognition with IBM Watson - Image Classification ([here](https://github.com/CristiVlad25/py-scripts-other/blob/master/vrwatson1.py)).
