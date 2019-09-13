@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Kudos to Reuven from LinuxJournal for the backbone: https://www.linuxjournal.com/content/threading-python
+
 import sys
 import requests
 import threading
