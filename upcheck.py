@@ -5,7 +5,7 @@
 import sys
 import requests
 import threading
-from queue import Queue
+from multiprocessing import Queue
 
 urls = ["https://%s"%line.strip('\n') for line in open(sys.argv[1],'r')]
 
