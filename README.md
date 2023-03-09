@@ -1,8 +1,14 @@
-## Python Scripts - Mix
+## Scripts
 
 ### Automating subdomain checking (for bug hunting)
 
 - upcheck.py (youtube: [here](https://youtu.be/ctaCEs66H1Y))
+
+### Other Pentesting/Bounties
+
+- kata.sh (katana simple wrapper)
+- hexcalc.py
+- Nuclei-Templates-Worth-Avoiding.txt
 
 ### Visual Recognition With Watson and Python
 
