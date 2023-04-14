@@ -6,6 +6,7 @@
 
 ### Other Pentesting/Bounties
 
+- nmap-vulns.ps1 (vuln scan a list of hosts with nmap)
 - kata.sh (katana simple wrapper)
 - hexcalc.py
 - Nuclei-Templates-Worth-Avoiding.txt
