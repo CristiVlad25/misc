@@ -1,5 +1,11 @@
 ## Scripts
 
+### WSTG (the official WSTG by OWASP) - with added "How to Test" 
+
+- the added "How to Test" is very useful as a workbook/spreadsheet when performing penetration testing assessments
+- you can download the .xlsx version from this repo
+- or you can craft your own copy as a Google Sheet here: [WSTG+](https://docs.google.com/spreadsheets/d/1BWs_SzkO7al59gSwZHFh3ISvK9zO4kEN/edit).
+
 ### Automating subdomain checking (for bug hunting)
 
 - upcheck.py (youtube: [here](https://youtu.be/ctaCEs66H1Y))
