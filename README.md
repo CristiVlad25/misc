@@ -1,4 +1,4 @@
-## Scripts
+## Scripts and Misc
 
 ### WSTG (the official WSTG by OWASP) - with added "How to Test" 
 
@@ -38,3 +38,7 @@
 ### Voice Synthesis with Amazon Polly
 
 - polly_speech#.py (youtube: [here](https://www.youtube.com/watch?v=nxzAb9r-u5A))
+
+### Claude Sonnet 4.6 Behavioral Insights
+
+- Sonnet 4.6 behavioral insights extracted by Claude itself.
